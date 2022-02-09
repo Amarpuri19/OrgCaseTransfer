@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>SendCaseHelper</members>
+		<members>SendCaseHelperTest</members>
+		<name>ApexClass</name>
+	</types>
+	<types>
+		<members>SendCase</members>
+		<name>AuraDefinitionBundle</name>
+	</types>
+	<types>
+		<members>Case_Transfer.CaseComments_field1</members>
+		<members>Case_Transfer.Case_Field_Mapping1</members>
+		<members>Case_Transfer.Case_Field_Mapping2</members>
+		<members>Case_Transfer.Case_Field_Mapping3</members>
+		<members>Case_Transfer.Case_Field_Mapping4</members>
+		<members>Case_Transfer.Task_Field_Mapping1</members>
+		<members>Case_Transfer.Task_Field_Mapping_2</members>
+		<name>CustomMetadata</name>
+	</types>
+	<types>
+		<members>Case_Transfer__mdt</members>
+		<name>CustomObject</name>
+	</types>
+	<types>
+		<members>*</members>
+		<name>AuthProvider</name>
+	</types>
+	<types>
+		<members>Amar_org_v3</members>
+		<name>NamedCredential</name>
+	</types>
+	<version>52.0</version>
+</Package>

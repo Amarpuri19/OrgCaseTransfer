@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AuthProvider xmlns="http://soap.sforce.com/2006/04/metadata">
+    <consumerKey>3MVG9G9pzCUSkzZu4fDN3DwE_AIHmKlZ4n.v45LyVBgcopAsJemamdjcpDnI1NG3Y0cHHylW6QHv2u17tCq8G</consumerKey>
+    <consumerSecret>0uk8tMnw/x+wNBWp4N/BOOSRdit/TR+3cV7aNKGCMG7LlrIxaBY7OrEPE+VoW8fxo5kl2YYvEaq9LJIkgAjkXnBBGPdiC2rX</consumerSecret>
+    <defaultScopes>api refresh_token offline_access</defaultScopes>
+    <friendlyName>Amar Org</friendlyName>
+    <includeOrgIdInIdentifier>true</includeOrgIdInIdentifier>
+    <providerType>Salesforce</providerType>
+    <sendAccessTokenInHeader>false</sendAccessTokenInHeader>
+    <sendClientCredentialsInHeader>false</sendClientCredentialsInHeader>
+    <sendSecretInApis>true</sendSecretInApis>
+</AuthProvider>
